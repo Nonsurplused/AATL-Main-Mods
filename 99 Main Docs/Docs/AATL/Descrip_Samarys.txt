@@ -1,0 +1,34 @@
+Samarys - The Sunken Tomb
+
+Requires: 
+Latest AATL_Data (https://www.nexusmods.com/morrowind/mods/50647)
+Latest OAAB_Data (https://www.nexusmods.com/morrowind/mods/49042)
+
+Description:
+A remaster of Samarys Ancestral Tomb Expanded (Original Mod here: https://www.nexusmods.com/morrowind/mods/45612) that connects the resurrection of Lord Brinne with the events of the Cult of Lorkhan, and starts part of a new search across Morrowind for the Crook of the Ancestors.
+
+Synopsis:
+"Shadowy figures have travelled through Seyda Neen, heading to the ancient tomb of Samarys. Uncover their true purpose, and resurrect the ancient and powerful Lord Eramis Brinne."
+
+Start:
+Can be started by entering Samarys Ancestral Tomb.
+
+=======================================================================
+=======================================================================
+SPOILERS BELOW -- DO NOT VIEW IF YOU WISH TO REMAIN UNSPOILED OR WANT TO SOLVE THE PUZZLE YOURSELF
+=======================================================================
+=======================================================================
+
+For those looking for a quick walkthrough on how to summon Lord Brinne, and what to do afterwards, continue reading.
+
+Walkthrough:
+ - Upon entering Samarys Ancestral Tomb, players are greeted with a worn down and rubble-strewn tomb. Take a right down the hall and grab the ribcage at the foot of the altar (it will help us later). Note the green light will help you spot Lord Brinne's bones easier.
+ - Go across the hall and enter Samarys Ancestral Tomb, Sunken Vaults. Travel down the steps and enter the ruins. To the right of the stairs is a bone pit. Find the skull in the pit.
+ - Next, go up the stairs to the right and go straight down the hall, up the ramp, and back into Samarys, Ancestral Tomb. Two random spawned enemies will be there, so be careful. Kill the enemies, and look to the left of the locked door to find the hand.
+ - Unlock the door and defeat Vandel Samarys and his spider buddies, and collect the ashes from Lord Brinne's Urn.
+ - Go back down the ramp and straight across the intersection, and go through the first area on the right. Pick up the Pelvis.
+ - Leave the room and continue down the hall. Go into the chambers where the cultists were sleeping and grab the key from the chest. Go down the right set of stairs into the water, and look for the skull to your right. Note, you can skip this step if you looted the key already.
+ - Follow the wall to the right up the stairs and unlock the door down the hall. Follow the hall to the caved-in area and retrieve the Mentor's Ring off of Hides-Her-Boots.
+ - Go back down the hall. through the unlocked door, and up the stairs. The door should unlock with the key. take a left out the door, past the room with the pelvis, and take a left at the 4-way intersection. Go down the hall until you find the altar with some bones already laid out. Activate it until all bones disappear. Talk to Lord Brinne and give him the Mentor's Ring (You'll get it back later, don't worry).
+ - Take the spear, leave the cell and wait a day. Upon returning, you'll notice that a new area has opened up, and Lord Brinne is no longer there.
+ - Enter the new area, and bank a right.

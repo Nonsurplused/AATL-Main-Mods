@@ -1,0 +1,13 @@
+Cult of Lorkhan Saga - Chapter 1
+The Imperial Archivist
+
+Requires: 
+Latest AATL_Data (https://www.nexusmods.com/morrowind/mods/50647)
+Latest OAAB_Data (https://www.nexusmods.com/morrowind/mods/49042)
+Latest Tamriel_Data (https://www.nexusmods.com/morrowind/mods/44537)
+
+Description:
+Travel to Dagon Fel and head North to the Daedric ruins of Vasarillidas. Speak to the Imperial Archivists and help them uncover the secret of Vasarillidas. Meant to be the first chapter in a series of mods surrounding the mysterious Cult of Lorkhan in their attempt to awaken the Sleeping God.
+
+Synopsis:
+"Cultists, Daedric Princes, and False Dreams lead to all new adventures for you, and they all start here. Travel to Vasarillidas and help the expedition taking place with the Imperial Archivists. Uncover the secrets locked away for centuries within Vvardenfell's Northern shores, and start your journey for the Cult of Lorkhan questline."

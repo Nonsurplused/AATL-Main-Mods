@@ -1,0 +1,12 @@
+Saturan, Depths
+
+By PikachunoTM
+
+A dangerous blade is hiding deep within the depths of Saturan. Locate the obsidian blade of Molag Bal and claim it for yourself.
+
+Requires:
+ - Tamriel_Data
+ - OAAB_Data
+ - AATL_Data
+
+Optional files include a red version of the blade.

@@ -1,0 +1,13 @@
+A Merchant's Whim
+
+
+Requires: 
+Latest AATL_Data (https://www.nexusmods.com/morrowind/mods/50647)
+Latest OAAB_Data (https://www.nexusmods.com/morrowind/mods/49042)
+
+Description:
+A new merchant in Vivec has had a change of heart, and would like your help with a personal matter of his.
+
+Find him in Vivec, Foreign Quarter, and visit him over several days. Gain his trust, and he will ask you to leave an offering in his stead.
+
+Help him, uncover a family's secrets, and help a ghost find peace.

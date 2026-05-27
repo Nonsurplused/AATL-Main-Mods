@@ -1,0 +1,211 @@
+1.4.0
+* Updated Masters
+* AATL Saturan Depths
+	Fixed
+	- Fixed accidental overlap for exit.
+	Tweaked
+	- Moved Gadblade to AATL Data.
+	- Tweaked the interiors.
+* An Addendum to Tamrielic Lore Chapter 1
+	Added
+	- New head for Resilius.
+	- Expanded Vasarillidas and added more loot to find.
+	Tweaked
+	- Adjusted some of the encounters and added more encounters to fight.
+* A Merchant's Whim
+	Fixed
+	- Fixed several errors in dialogue.
+	Added
+	- Added more dialogue to give players a better sense of what needs to be done to resolve the quest.
+	Tweaked
+	- Tweaked existing dialogue for the players to have a better idea of what to do.
+	Removed
+	- Removed the incomplete quest regarding the two special Daedra. They are now more easter-egg than quest givers, as the quest was buggy and very broken.
+* AATL Static Encounters
+	Added
+	- More new NPCs and item distribution.
+	- Made encounters for the Rueful Axe and Visage of Mzund.
+* AATL Dev Room
+	Added
+	- Added missing new items to the room.
+	- Slight tweaks for testing.
+* AATL Artifacts Replica Merchant
+	Added
+	- The Gadblade replica added to buyables.
+* AATL Playable Classes
+	Added
+	- Added Juggernaut and Bladesinger classes.
+	
+
+1.3.0
+* Updated Masters
+* AATL Static Encounters
+	Fixed
+	- Actually fixed assassin sometimes not dying properly.
+	Added
+	- Added more items and encounters to the world thanks to Tamriel_Data and OAAB_Data updates.
+	- Added Rangard's Axe and Neb Crescen to the list of obtainable artifacts.
+* AATL Replica Merchant
+	Added
+	- Added Dawnfang and Duskfang replicas to the merchant.
+* An Addendum to Tamrielic Lore Chapter 1
+	Fixed
+	- Fixed an issue where players couldn't properly ask Resilius Thesidian questions if Dayana Rasimus was dead.
+	- Fixed an issue where the Daedric Key used an old mesh and icon.
+	- Fixed the Aspect of Id having a soul.
+	Tweaked
+	- Tweaked lighting for the Dreamscape.
+	- Adjusted loot for new containers.
+	- Adjusted several instances of clunky dialogue.
+	- Tweaked spawn encounters.
+	Added
+	- Added more loot.
+	- More minor detail to several areas.
+* AATL Pots and Plans
+	Fixed
+	- Fixed several broken dialogue errors. Will hopefully prevent softlocking if performed out of sequence.
+* New mod AATL Saturan Depths.
+	- New expansion to Saturan with a brand new unique obsidian blade.
+	- Fun, 30 min - 1 hr adventure with a large expansion to the simple Saturan. Should be compatible with all mods that edit Saturan. Recommended level is 10+.
+
+
+1.2.3
+* Updated Masters
+* AATL The Imperial Scholar
+	Fixed
+	- Fixed dialogue check checking for the wrong item when attempting to give the metal plaque to COL member.
+	Tweaked
+	- Made compatibility version for GotN and Spires the default to reduce versions.
+* AATL Samarys the Sunken Tomb
+	Tweaked
+	- Updated undervault interior with additional loot, detail, and more.
+	- Changed undervault puzzle due to it being too confusing for players, to no longer be required for progression.
+
+
+1.2.2
+* Updated Masters
+* AATL Static Encounters
+	Fixes
+	- Fixed Dead Assassin not being dead.
+	- Fixed certain merchants not selling anything.
+	Tweaks
+	- Gave Adaama Cosring pants (because she sometimes didn't spawn like she should have with them, whoops).
+* AATL Pots and Plans
+	Fixes
+ 	- Fixed Shal's Lucky Liquor not being owned in Six Fishes.
+
+1.2.1
+* AATL Static Encounters
+	Fixes
+	- Fixed script error for AATL_SCR_BoxEnableDanger script.
+
+
+1.2.0
+* Updated Masters.
+* Changed many of the options within the FOMOD
+	- Now installation is split into three main steps: Core, Main Mods, Mini Mods, Documentation.
+	- Core is just Main files and HD files.
+ 	- Mini Mods include Mini Integrations, Playable Classes, High Poly Vanilla Restored Artifacts, Alternate Meshes, and Unique Uniques.
+* AATL Unique Uniques
+	Tweaks
+	- Tweaked the Necromancer's Amulet mesh and texture.
+	Additions
+	- Added a more unique Ring of Khajiit, modified from DimNussens's model and texture.
+* Added new Mini Integration - Static Encounters mod.
+	- Adds new, static encounters throughout Vvardenfell, incorporating some of the new items from AATL.
+* Tweaked textures.
+* Playable Classes
+	Additions
+	- Added the new class as playable.
+* A Merchant's Whim
+	Fixes
+	- Fixed a script error that prevented some items from being added correctly.
+	Tweaks
+	- Alt location is now the only location, to avoid maintaining multiple versions.
+	- Minor loot/clutter changes.
+* AATL Mini Mods - Pots and Plans
+	Fixes
+	- Fixed a small bug with dialogue options preventing players from accessing one of the options if they have given someone a certain something.
+	Tweaks
+	- Tweaked certain merchant inventories.
+	Additions
+	- Added more merchants.
+* Samarys Ancestral Tomb Remastered.esp -> Samarys - The Sunken Tomb.esp
+	Fixes
+	- Fixed the Undervaults door not being revealed properly.
+	- Fixed various problematic script issues (checked via mwedit).
+	- Fixed unnecessary journal update spam.
+	Tweaks
+	- Many lore tweaks to accommodate new Cult of Lorkhan lore in Chapter 1.
+	- Loot tweaks to provide more varied yet appropriate loot to the tomb.
+	Additions
+	- New area: Samarys, Undervaults.
+	- New quests after the player makes a specific choice regarding Lord Brinne.
+* New mod: An Addendum to Tamrielic Lore Chapter 1: The Imperial Archivist
+	- Includes all new quests, locations, and rewards.
+	- The first chapter of the AATL mod series surrounding the Cult of Lorkhan.
+	- New location, Vasarillidas, north of Dagon Fel.
+
+
+
+1.1.0
+* Updated Masters
+* Added Unique Uniques for five vanilla items.
+* Updated models and textures.
+* Migrated non-alternates or uniques and modders resources to AATL_Data.
+* AATL Mini Mods - Pots and Plans
+	Fixes
+	- Fixed bugged dialogue option.
+	Tweaks
+	- Tweaked some locations and accessibility of certain pots and pans.
+	Additions
+	- Added several new recipe merchants, and some new chef merchants who sell ingredients and pots/pans.
+* A Merchant's Whim
+	Fixes
+	- Fixes Gerabano not attacking the player when the others attack or vice-versa.
+	- Fixes several glaring issues with certain dialogues.
+	Tweaks
+	- Tweaked the shrine in the manor, and some loot tweaks.
+	Additions
+	- New items from AATL/OAAB added.
+* Samarys Ancestral Tomb Remastered
+	Fixes
+	- Fixed clipping from dying of one of the bodies.
+	Tweaks
+	- Tweaked the location of some of the bones.
+	Additions
+	- New items from AATL/OAAB added.
+
+
+1.0.2
+* A Merchant's Whim updated to 1.4.3
+	Fixes
+	- Fixed missed linking of new Vandas Manor door.
+
+
+1.0.1
+* Updated Masters
+* A Merchant's Whim updated to 1.4.2
+	Fixes
+	- Fixed accidentally deleted Vandas Manor (replaced with different model).
+	- Fixed several clipping issues.
+ 	- Fixed various spelling and/or grammatical issues.
+	Tweaks
+ 	- Added day/night guards for Vandas family tomb and Vandas manor.
+ 	- More guards and greater guard variations.
+ 	- Updated to latest version of AATL_Data.
+ 	- Added new items to merchant's inventory.
+ 	- Raised Merchant's gold cap to 1500.
+ 	- Swapped Sits-in-Sand's dagger for an Argonian spear.
+ 	- Minor dialogue tweaks.
+	Additions
+ 	- New quests for the two surprise guests.
+ 	- New guard for the merchant. It's dangerous out there after all.
+* Samarys Preview updated to 1.0.1
+	Fixes
+	- Fixed issue with dialogue referencing old journal entry.
+* Other: Added Oblivion-esque Blade of Woe.
+
+
+1.0:
+* Initial Release
